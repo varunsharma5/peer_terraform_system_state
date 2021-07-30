@@ -3,5 +3,5 @@ variable "region" {
 }
 
 variable "bucket" {
-  default = "peer.review.01-varun-sharma-bucket"
+  default = "peer.review.02-varun-sharma-bucket"
 }
